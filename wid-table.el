@@ -1,13 +1,13 @@
-;;; wid-table.el --- widget tables and cells
+;;; wid-table.el --- table and cell widgets
 
-;; Copyright (C) 2008 Jonas Bernoulli
+;; Copyright (C) 2008, 2009  Jonas Bernoulli
 
-;; Author: Jonas Bernoulli <jonas@bernoulli.cc>
+;; Author: Jonas Bernoulli <jonas@bernoul.li>
 ;; Created: 20080830
-;; Updated: 20080902
+;; Updated: 20090313
 ;; Version: 0.0.2
-;; Homepage: http://artavatar.net
-;; Keywords: extensions
+;; Homepage: https://github.com/tarsius/wid-table
+;; Keywords: extensions, widgets
 
 ;; This file is not part of GNU Emacs.
 
