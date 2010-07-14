@@ -5,7 +5,7 @@
 ;; Author: Jonas Bernoulli <jonas@bernoul.li>
 ;; Created: 20080830
 ;; Updated: 20090313
-;; Version: 0.0.2
+;; Version: 0.0.2a
 ;; Homepage: https://github.com/tarsius/wid-table
 ;; Keywords: extensions, widgets
 
@@ -25,6 +25,22 @@
 ;; along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ;;; Commentary:
+
+;; Display tables using the `widget' libary.
+
+;; This was written as support library for library `cus-keymap' but
+;; could be useful on it's own.  It's a bit buggy but this shouldn't
+;; be to hard to fix.
+
+;; **************************** WARNING ****************************
+;; *                                                               *
+;; *  This package is somewhat usable but it is not finished and   *
+;; *  since I no longer use it this will probably never change.    *
+;; *                                                               *
+;; *  If you are interested feel free to adopt it - orphans lead   *
+;; *  a sad live.                                                  *
+;; *                                                               *
+;; *****************************************************************
 
 ;;; Code:
 
